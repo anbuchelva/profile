@@ -2,17 +2,39 @@
 layout: default
 ---
 
-## About Me
+## Objective
 
 <img class="profile-picture" src="anbu.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Oracle certified EPM specialist, seeking to work in an environment that will challenge every day; while allowing me to contribute to the continued learning, growth and success of the organization
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Summary of Skills & Experience
 
-## Research Interest
+- **Associate / Senior Associate Manager - BI & EPM :**
+  - **Hyperion Planning:** Application Maintenance, Optimization, Create Forms and Business Rules, Train and support users, Setup automated reports using smartview macros
+  - **Profitability & Cost Management:** Development of complex allocation models using Management Ledger, Application Maintenance, Train and support users
+  - **DRM:** 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- **Associate Manager - WFM:**
+  - Forecast & Planning key metrics of the business
+  - Create Manpower planners and control
+  - Analyze patterns and trends
+  - Set up process to deliver measurable results
+
+- **Data Analyst / Senior Data Analyst:**
+  - Generate reports using Cognos Query/Report Studio
+  - Publish Business Reviews, Usage Reports
+  - Analize trends, patterns and cost savings
+  - Designed a tracker using MS Access to allocate tasks to agensts and track the quality and delivery
+
+
+## Employment History
+
+- Sutherland Global Services, Chennai, from Dec 2010 to till date
+- HCL Technologies and Business Services, Chennai, from May 2008 to Nov 2010
+- RR Donnelley Outsourcing Company Pvt. Ltd., Chennai, from Jun 2007 to April 2008
+
+## Projects 
 
 ## Publications
 
